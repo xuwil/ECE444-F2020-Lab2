@@ -4,11 +4,11 @@ Name: Yudong (William) Xu
 This repo is a clone of https://github.com/miguelgrinberg/flasky
 
 ## Task 1
-![Screenshot](task1.png)
+![](task1.PNG)
 
 
 ## Task 2
-![Screenshot](task2.png)
+![](task2.PNG)
 
 
 ## Task 3
